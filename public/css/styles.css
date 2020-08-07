@@ -14,3 +14,47 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+/*                                   Navigation Bar                                             */
+h1
+{
+    color: #00a1ab;
+}
+
+a
+{
+  color : #58b4ae;
+}
+
+a:hover, a:active, a:focus
+{
+  color : grey;
+}
+.ffaa
+{
+  position: absolute;
+  top: 50%;
+  left: 45%;
+}
+a:visited
+{
+  color: #58b4ae;
+}
+
+.NavHead
+{
+  display : inline-block;
+  margin-left: 1%;
+  position: absolute;
+  top: 17%;
+}
+
+.navbarLeft
+{
+  margin-left: 10%;
+}
+
+.navbarRight
+{
+  margin-right: 10%;
+}
